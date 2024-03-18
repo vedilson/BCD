@@ -1,0 +1,18 @@
+Prezado(a) Desenvolvedor,
+Estamos entusiasmados em modernizar nosso sistema de gestão para a Oficina SENAI. Para isso, precisamos da sua experiência na criação de um banco de dados eficiente que atenda às nossas necessidades. Abaixo estão alguns requisitos importantes para o desenvolvimento do sistema:
+
+Clientes:
+Precisamos armazenar informações sobre nossos clientes, como nome, telefone, endereço, e-mail e veículos que possuem. Além disso, desejamos registrar o histórico de serviços realizados para cada cliente.
+
+Funcionários:
+Os funcionários também devem ser registrados no sistema, com dados como nome, cargo, telefone, endereço e especialidades em serviços automotivos. Cada funcionário deve ter uma identificação única.
+
+Veículos:
+Cada veículo precisa ter um registro único, contendo informações como marca, modelo, ano de fabricação e placa. Além disso, é importante registrar quais clientes possuem quais veículos.
+
+Serviços:
+Os serviços realizados na Oficina SENAI devem ser registrados, incluindo informações como tipo de serviço, data, veículo atendido e funcionário responsável. Cada serviço deve ter um identificador único.
+
+Agradecemos antecipadamente pelo seu esforço na construção deste banco de dados. Aguardamos ansiosos para ver o sistema em ação e aprimorar a gestão da nossa Oficina SENAI.
+
+Atenciosamente,
